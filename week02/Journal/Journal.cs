@@ -43,5 +43,7 @@ class Journal
         }
         else
             Console.WriteLine("File not found.");
+
+        
     }
 }
